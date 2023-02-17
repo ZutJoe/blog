@@ -60,4 +60,4 @@ sudo /etc/init.d/smbd restart
 
 然后根据图片相关步骤设置
 
-![image-20230217093735676](..\Linux\Linux 下 Samba服务器的构建.assets\image-20230217093735676.png)
+![image-20230217093735676](./Linux 下 Samba服务器的构建.assets/image-20230217093735676.png)
